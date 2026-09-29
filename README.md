@@ -244,13 +244,13 @@ I'm continuously learning and exploring backend technologies and desinging data 
 
 <p align="center">
   <img
-    src="./stats.svg"
+    src="./profile/stats.svg"
     alt="Ahasan Habib GitHub Stats"
     height="180"
   />
 
   <img
-    src="./top-langs.svg"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
     height="180"
   />
