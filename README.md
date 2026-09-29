@@ -259,11 +259,8 @@ I'm continuously expanding my backend and infrastructure knowledge.
 ---
 
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
+---
 
-
-### এটা ✅ সরাসরি রাখো
-
-```md
 ## 🐍 Contribution Snake
 
 <p align="center">
