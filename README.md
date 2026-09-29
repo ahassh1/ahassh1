@@ -237,22 +237,22 @@ I'm continuously expanding my backend and infrastructure knowledge.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahassh1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ahassh1&show_icons=true&theme=github_dark&hide_border=true"
     alt="Ahasan Habib GitHub Stats"
+    height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahassh1&layout=compact&theme=transparent&hide_border=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahassh1&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages"
+    height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ahassh1&hide_border=true&theme=transparent"
-    alt="Ahasan's GitHub Streak"
+    src="https://streak-stats.demolab.com?user=ahassh1&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -260,6 +260,10 @@ I'm continuously expanding my backend and infrastructure knowledge.
 
 <!-- ======================= CONTRIBUTION SNAKE ======================= -->
 
+
+### এটা ✅ সরাসরি রাখো
+
+```md
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -268,15 +272,14 @@ I'm continuously expanding my backend and infrastructure knowledge.
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/ahassh1/ahassh1/output/github-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/ahassh1/ahassh1/output/github-snake.svg"
     />
-
     <img
       src="https://raw.githubusercontent.com/ahassh1/ahassh1/output/github-snake.svg"
       alt="GitHub Contribution Snake"
+      width="100%"
     />
   </picture>
 </p>
