@@ -237,15 +237,15 @@ I'm continuously expanding my backend and infrastructure knowledge.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahassh1&show_icons=true&hide_border=true&theme=transparent"
-    alt="Ahasan's GitHub Stats"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=ahassh1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="170"
+    alt="Ahasan Habib GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahassh1&layout=compact&hide_border=true&theme=transparent"
-    alt="Ahasan's Top Languages"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahassh1&layout=compact&theme=transparent&hide_border=true"
+    height="170"
+    alt="Top Languages"
   />
 </p>
 
@@ -277,28 +277,8 @@ I'm continuously expanding my backend and infrastructure knowledge.
     <img
       src="https://raw.githubusercontent.com/ahassh1/ahassh1/output/github-snake.svg"
       alt="GitHub Contribution Snake"
-      width="100%"
     />
   </picture>
 </p>
 
 ---
-
-<!-- ======================= PHILOSOPHY ======================= -->
-
-## 💭 Developer Philosophy
-
-> **Think small. Build clean. Learn continuously.**
-
-I believe great software is not only about making things work —
-it's about making them **understandable, maintainable, accessible, and useful**.
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  <i>Let's build something meaningful.</i>
-</p>
