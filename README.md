@@ -32,7 +32,7 @@ I enjoy breaking complex problems into smaller, meaningful steps and turning ide
 
 My interests go beyond just writing code. I enjoy exploring:
 
-- 🧩 Problem solving & structured thinking
+- 🧩 Development, Problem solving & structured thinking
 - 🏗️ Software architecture & system design
 - 🎨 User experience & accessibility
 - 🧹 Clean and maintainable code
@@ -58,11 +58,18 @@ My interests go beyond just writing code. I enjoy exploring:
 
 ## 🔮 Technologies I Want to Explore
 
-I'm continuously expanding my backend and infrastructure knowledge.
+I'm continuously learning and exploring backend technologies and desinging data intensive applications knowledge gather.
 
-**Future Learning:**
+## 🔮 Future Learning
 
-`Laravel` • `MySQL` • `PostgreSQL` • `Docker` • `Kubernetes` • `GraphQL`
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
 
 ---
 
@@ -237,13 +244,13 @@ I'm continuously expanding my backend and infrastructure knowledge.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahassh1&show_icons=true&theme=github_dark&hide_border=true"
+    src="./stats.svg"
     alt="Ahasan Habib GitHub Stats"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahassh1&layout=compact&theme=github_dark&hide_border=true"
+    src="./top-langs.svg"
     alt="Top Languages"
     height="180"
   />
@@ -253,6 +260,7 @@ I'm continuously expanding my backend and infrastructure knowledge.
   <img
     src="https://streak-stats.demolab.com?user=ahassh1&theme=github-dark-blue&hide_border=true"
     alt="GitHub Streak"
+    height="180"
   />
 </p>
 
