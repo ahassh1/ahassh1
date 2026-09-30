@@ -4,7 +4,7 @@
   <img
     src="./banner/githubbanner.jpg"
     alt="Ahasan Habib Polash - Full Stack Developer"
-    width="100%"
+    width="95%"
   />
 </p>
 
@@ -266,7 +266,7 @@ I'm continuously learning and exploring backend technologies and desinging data 
 
 ---
 
-<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+<!-- ======================= CONTRIBUTION SNAKE. ======================= -->
 ---
 
 ## 🐍 Contribution Snake
